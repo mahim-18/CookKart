@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cookkart
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -46,3 +47,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# CookKart
+Home chef marketplace with grocery comparison feature
+>>>>>>> a6b6ea7eaea27452d74eba8d7b6d47d95fd1a199
