@@ -1,0 +1,22 @@
+[
+  { "id": 1, "grocery_name": "Basmati Rice", "grocery_category": "Grains", "price": 100 },
+  { "id": 2, "grocery_name": "Full Cream Milk", "grocery_category": "Dairy", "price": 64 },
+  { "id": 3, "grocery_name": "Toor Dal", "grocery_category": "Pulses", "price": 140 },
+  { "id": 4, "grocery_name": "Sunflower Oil", "grocery_category": "Cooking Oil", "price": 135 },
+  { "id": 5, "grocery_name": "Turmeric Powder", "grocery_category": "Spices", "price": 44 },
+  { "id": 6, "grocery_name": "Atta (Whole Wheat)", "grocery_category": "Flour", "price": 410 },
+  { "id": 7, "grocery_name": "Salted Butter", "grocery_category": "Dairy", "price": 276 },
+  { "id": 8, "grocery_name": "Refined Sugar", "grocery_category": "Sweeteners", "price": 50 },
+  { "id": 9, "grocery_name": "Tea Leaves", "grocery_category": "Beverages", "price": 300 },
+  { "id": 10, "grocery_name": "Instant Coffee", "grocery_category": "Beverages", "price": 550 },
+  { "id": 11, "grocery_name": "Green Moong Dal", "grocery_category": "Pulses", "price": 125 },
+  { "id": 12, "grocery_name": "Red Chilli Powder", "grocery_category": "Spices", "price": 85 },
+  { "id": 13, "grocery_name": "Paneer (Cottage Cheese)", "grocery_category": "Dairy", "price": 70 },
+  { "id": 14, "grocery_name": "Iodized Salt", "grocery_category": "Spices", "price": 25 },
+  { "id": 15, "grocery_name": "Almonds", "grocery_category": "Dry Fruits", "price": 800 },
+  { "id": 16, "grocery_name": "Cashews", "grocery_category": "Dry Fruits", "price": 900 },
+  { "id": 17, "grocery_name": "Greek Yogurt", "grocery_category": "Dairy", "price": 70 },
+  { "id": 18, "grocery_name": "Whole Black Pepper", "grocery_category": "Spices", "price": 110 },
+  { "id": 19, "grocery_name": "Honey", "grocery_category": "Sweeteners", "price": 198 },
+  { "id": 20, "grocery_name": "Basmati Brown Rice", "grocery_category": "Grains", "price": 140 }
+]

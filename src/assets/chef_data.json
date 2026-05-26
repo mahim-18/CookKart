@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "name": "Chef Gordon Ramsy",
+    "description": "MASTERCHEF. Might scream at you!",
+    "rank": 5,
+    "image": "/images/chef_pfp/gordon_ramsy.jpg",
+    "location": { "name": "Transport Nagar Metro Station", "pincode": 226012 },
+    "tags": ["American BBQ", "Smoked Meats", "Steaks", "Grilling You", "Brisket"]
+  },
+  {
+    "id": 2,
+    "name": "Chef Rajesh Rawani",
+    "description": "Master of North Indian tandoori specialties and curries. Kind guy. Can cook the meal while on the way.",
+    "rank": 5,
+    "image": "/images/chef_pfp/rajesh_rawani_chicken.jpg",
+    "location": { "name": "Charbagh Metro Station", "pincode": 226004 },
+    "tags": ["North Indian", "Tandoori", "Butter Chicken", "Grilling", "Spicy"]
+  },
+  {
+    "id": 9,
+    "name": "Chef Chandrika Gera Dixit",
+    "description": "Street food innovator specializing in Lucknowi Chaat. Might cry anytime. Can be overpriced sometimes.",
+    "rank": 2,
+    "image": "/images/chef_pfp/vada_pao_girl.webp",
+    "location": { "name": "KD Singh Babu Stadium Metro Station", "pincode": 226001 },
+    "tags": ["Street Food", "Vada Pav", "Basket Chaat", "Innovative", "Quick Bites"]
+  },
+  {
+    "id": 16,
+    "name": "Chef Rajiv Bhai",
+    "description": "Fast food specialist focusing on gourmet burgers and shakes. Agressive! ",
+    "rank": 4.0,
+    "image": "/images/chef_pfp/tehelka_omellete.jpg",
+    "location": { "name": "Krishna Nagar Metro Station", "pincode": 226023 },
+    "tags": ["Fast Food", "Tehelka Omellete", "Milkshakes", "Comfort Food"]
+  },
+  {
+    "id": 3,
+    "name": "Chef Dolly Chaiwala",
+    "description": "Expert in fusion tea and artisanal blends. Main customer base are Bill-ionares.",
+    "rank": 4.2,
+    "image": "/images/chef_pfp/dolly_chaiwala.jpg",
+    "location": { "name": "CCS Airport Metro Station", "pincode": 226009 },
+    "tags": ["Chai Tea", "Bun Maska", "Artisanal Blends", "Mathri", "Rusk"]
+  },
+
+  {
+    "id": 4,
+    "name": "Sheldon Cooper",
+    "description": "Hello. I'm Dr. Sheldon Cooper. Im a theoretical physicist, a genius-level intellect, and Im currently on the verge of proving that sarcasm is the lowest form of wit. ...Bazinga",
+    "rank": 5.0,
+    "image": "/images/chef_pfp/Sheldon_Cooper.webp",
+    "location": { "name": "Indira Nagar Metro Station", "pincode": 226016 },
+    "tags": ["Fine Dining", "Texan", "CalTech's Kitchen", "Seafood", "Tea"]
+  },
+
+  {
+    "id": 5,
+    "name": "Ranveer Brar",
+    "description": "Celebrity Indian chef and storyteller with modern Indian flair.",
+    "rank": 4.9,
+    "image": "https://pbs.twimg.com/profile_images/1841147726043455490/-VnwmoMu_400x400.jpg",
+    "location": { "name": "Munshipulia Metro Station", "pincode": 226016 },
+    "tags": ["Indian", "Celebrity Chef", "Awadhi", "Food Shows"]
+  },
+
+  {
+    "id": 6,
+    "name": "Sanjyot Keer",
+    "description": "Food creator famous for Your Food Lab recipes.",
+    "rank": 4.8,
+    "image": "https://www.indiawebfest.com/wp-content/uploads/2021/11/Chef-Sanjyot-Keer-PHOTO.png",
+    "location": { "name": "IT College Metro Station", "pincode": 226007 },
+    "tags": ["Punjabi", "North Indian", "Dal Tadka", "South Indian"]
+  },
+
+  {
+    "id": 7,
+    "name": "Nick DiGiovanni",
+    "description": "Internet chef and food creator known for giant food videos.",
+    "rank": 4.8,
+    "image": "https://seattletalentbuying.com/wp-content/uploads/Nick-DiGiovanni.png",
+    "location": { "name": "Alambagh Metro Station", "pincode": 226005 },
+    "tags": ["Vegan", "Pizza", "Pan Asian", "Sushi", "European Cuisine"]
+  },
+
+  {
+    "id": 8,
+    "name": "Nusret Gökçe",
+    "description": "Salt Bae himself. Excessive seasoning style included.",
+    "rank": 5.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDF96OB8EqTth05QoPSFd9YOcrZrZtGvSDA&s",
+    "location": { "name": "Hussainganj Metro Station", "pincode": 226001 },
+    "tags": ["Salt Bae", "Steak", "Grill", "Roasted Chicken", "Wine"]
+  },
+
+  {
+    "id": 10,
+    "name": "Shivesh Bhatia",
+    "description": "Baker and dessert creator known for cakes and recipes.",
+    "rank": 4.8,
+    "image": "https://bakewithshivesh.com/wp-content/uploads/2021/12/DSC08256-1-scaled.jpg",
+    "location": { "name": "Vishwavidyalaya Metro Station", "pincode": 226007 },
+    "tags": ["Baking", "Desserts", "Cakes", "Patisier", "French"]
+  },
+
+  {
+    "id": 11,
+    "name": "Vikas Khanna",
+    "description": "Michelin-star chef and television personality.",
+    "rank": 4.9,
+    "image": "https://culinaireworld.com/wp-content/uploads/2025/05/vikas-khanna-scaled.jpeg",
+    "location": { "name": "Sachivalaya Metro Station", "pincode": 226001 },
+    "tags": ["Rajasthani", "Michelin", "North Indian", "Fine Dining", "Fish Curry"]
+  },
+
+  {
+    "id": 12,
+    "name": "Kunal Kapur",
+    "description": "Popular chef and TV judge with modern Indian expertise.",
+    "rank": 4.7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRta-eM29a5FHdFbltYNinSuWUgai88CgWoRg&s",
+    "location": { "name": "Bhootnath Market Metro Station", "pincode": 226016 },
+    "tags": ["Indian", "TV", "Recipes", "Healthy", "Celebrity"]
+  },
+  {
+    "id": 13,
+    "name": "Jamie Oliver",
+    "description": "British celebrity chef known for approachable comfort food and global recipes.",
+    "rank": 4.8,
+    "image": "https://cdn.jamieoliver.com/jog/uploads/2023/05/jamie-catherine_street1-scaled.jpg",
+    "location": { "name": "Lekhraj Market Metro Station", "pincode": 226016 },
+    "tags": ["British", "Celebrity Chef", "Comfort Food", "Italian", "TV"]
+  },
+
+  {
+    "id": 14,
+    "name": "Pankaj Bhadouria",
+    "description": "Winner of MasterChef India and specialist in Indian home-style cuisine.",
+    "rank": 4.9,
+    "image": "https://femina.wwmindia.com/thumb/content/2024/mar/chef-pankaj-bhadouria-thumb1710413918.jpg?width=1200&height=900",
+    "location": { "name": "Hazratganj Metro Station", "pincode": 226001 },
+    "tags": ["MasterChef India", "Awadhi", "Home Style", "Indian", "Celebrity"]
+  },
+
+  {
+    "id": 15,
+    "name": "Madhur Jaffrey",
+    "description": "Legendary chef and food writer celebrated for authentic Indian flavors.",
+    "rank": 5.0,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1MjUzNDkxM15BMl5BanBnXkFtZTcwNTIzMzExOA@@._V1_.jpg",
+    "location": { "name": "Badshahnagar Metro Station", "pincode": 226006 },
+    "tags": ["Indian", "Traditional", "Cookbooks", "Kashmiri", "Legend"]
+  },
+
+  {
+    "id": 17,
+    "name": "Boris Lauser",
+    "description": "Creative chef blending traditional recipes with modern techniques.",
+    "rank": 4.6,
+    "image": "https://www.blog.vegan-masterclass.de/wp-content/uploads/2023/02/Boris_Lauser-1.jpg",
+    "location": { "name": "Singar Nagar Metro Station", "pincode": 226005 },
+    "tags": ["Fusion", "Modern", "Creative", "Traditional", "Chef"]
+  },
+
+  {
+    "id": 18,
+    "name": "Sarah Todd",
+    "description": "Australian chef and TV personality with Indian cuisine influence.",
+    "rank": 4.8,
+    "image": "https://assets.cntraveller.in/photos/65d59d51a1c9bb1a5cb14e2e/master/w_1600%2Cc_limit/sanctuary-goa-8.jpg",
+    "location": { "name": "Amausi Metro Station", "pincode": 226008 },
+    "tags": ["Celebrity", "Indian Cuisine", "TV", "Food", "Modern"]
+  },
+
+  {
+    "id": 19,
+    "name": "Megan Fox",
+    "description": "Pastry chef and starred in Transformers.",
+    "rank": 4.7,
+    "image": "https://fashionmagazine.mblycdn.com/uploads/fm/2021/10/JB-021R.jpg",
+    "location": { "name": "Mawaiya Metro Station", "pincode": 226004 },
+    "tags": ["Desserts", "Baking", "Pastry", "Badass"]
+  },
+
+  {
+    "id": 20,
+    "name": "Henry Cavill",
+    "description": "Globally recognized. He's Superman",
+    "rank": 5.0,
+    "image": "https://preview.redd.it/whats-your-honest-opinion-on-henry-cavill-will-his-v0-4f7bq0ygn1vf1.jpeg?width=640&crop=smart&auto=webp&s=2c22dd224f2f1b017a1108df77518c8a9a357ac8",
+    "location": { "name": "Durgapuri Metro Station", "pincode": 226004 },
+    "tags": ["British", "Kryptonian", "American Cheese Burger", "Fusion", "Alien"]
+  }
+]

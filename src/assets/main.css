@@ -1,0 +1,40 @@
+@import './base.css';
+
+@theme {
+  --color-tangerine: oklch(0.7283 0.1802 52.13);
+  --color-tangerine-50: oklch(0.96 0.03 52);
+  --color-tangerine-100: oklch(0.92 0.05 52);
+  --color-tangerine-200: oklch(0.86 0.09 52);
+  --color-tangerine-300: oklch(0.78 0.14 52);
+  --color-tangerine-400: oklch(0.73 0.18 52);
+  --color-tangerine-500: oklch(0.65 0.19 52);
+  --color-tangerine-600: oklch(0.55 0.18 52);
+  --color-tangerine-700: oklch(0.45 0.16 52);
+  --color-tangerine-800: oklch(0.35 0.13 52);
+
+  /* IN CASE OF Custom Animation Reqs */
+  /* --animate-fade-in: fade-right 1s ease-out forwards;
+
+  @keyframes fade-right {
+    0% {
+      opacity: 0;
+      transform: translateX(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  } */
+}
+
+@utility navBtnLink {
+  @apply border-transparent bg-transparent text-black md:text-sm lg:text-base;
+}
+
+@utility navBtn-hover {
+  @apply hover:bg-tangerine-50 hover:text-tangerine;
+}
+
+@utility heroSuggestChip {
+  @apply max-h-7 text-xs text-gray-200 bg-white/20 hover:bg-black/20 cursor-pointer transition-colors;
+}

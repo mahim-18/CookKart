@@ -1,0 +1,618 @@
+[
+  {
+    "id": 14,
+    "tags": ["Awadhi", "Dum Pukht", "Galouti Kebab", "Royal Cuisine", "Slow Cooking"],
+    "dishes": [
+      {
+        "name": "Galouti Kebab",
+        "img": "https://images.unsplash.com/photo-1601050648497-3f9eba95018a?auto=format&fit=crop&w=600",
+        "price": 450
+      },
+      {
+        "name": "Kakori Kebab",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=600",
+        "price": 550
+      },
+      {
+        "name": "Dum Pukht Biryani",
+        "img": "https://images.unsplash.com/photo-1563379091339-03b21bc4a4f8?auto=format&fit=crop&w=600",
+        "price": 650
+      },
+      {
+        "name": "Ulte Tawe ka Paratha",
+        "img": "https://images.unsplash.com/photo-1534422298391-e4f8c170db76?auto=format&fit=crop&w=600",
+        "price": 80
+      },
+      {
+        "name": "Mutton Nihari",
+        "img": "https://images.unsplash.com/photo-1542367592-8849eb950fd8?auto=format&fit=crop&w=600",
+        "price": 520
+      },
+      {
+        "name": "Shahi Tukda",
+        "img": "https://images.unsplash.com/photo-1589113103503-49453adfe5b7?auto=format&fit=crop&w=600",
+        "price": 250
+      },
+      {
+        "name": "Murgh Musallam",
+        "img": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?auto=format&fit=crop&w=600",
+        "price": 850
+      },
+      {
+        "name": "Pasanda",
+        "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=600",
+        "price": 480
+      },
+      {
+        "name": "Sheermal",
+        "img": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=600",
+        "price": 90
+      },
+      {
+        "name": "Awadhi Gosht Korma",
+        "img": "https://images.unsplash.com/photo-1626777553733-407edc076295?auto=format&fit=crop&w=600",
+        "price": 580
+      },
+      {
+        "name": "Zafrani Pulao",
+        "img": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&w=600",
+        "price": 420
+      },
+      {
+        "name": "Sultani Dal",
+        "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600",
+        "price": 320
+      },
+      {
+        "name": "Boti Kebab",
+        "img": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=600",
+        "price": 440
+      },
+      {
+        "name": "Nalli Nihari",
+        "img": "https://images.unsplash.com/photo-1606471191009-63994c53433b?auto=format&fit=crop&w=600",
+        "price": 620
+      },
+      {
+        "name": "Awadhi Fish Curry",
+        "img": "https://images.unsplash.com/photo-1534939561126-755ecf1588b0?auto=format&fit=crop&w=600",
+        "price": 550
+      },
+      {
+        "name": "Lab-e-Shireen",
+        "img": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=600",
+        "price": 280
+      },
+      {
+        "name": "Yakhni Pulao",
+        "img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=600",
+        "price": 480
+      },
+      {
+        "name": "Seekh Kebab",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=600",
+        "price": 420
+      },
+      {
+        "name": "Paneer Pukhtan",
+        "img": "https://images.unsplash.com/photo-1567184109411-b28f2703b142?auto=format&fit=crop&w=600",
+        "price": 380
+      },
+      {
+        "name": "Warqi Paratha",
+        "img": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?auto=format&fit=crop&w=600",
+        "price": 70
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tags": ["Fusion", "Desserts", "Artisanal Bread", "Pastry", "Baking"],
+    "dishes": [
+      {
+        "name": "Matcha Croissants",
+        "img": "https://images.unsplash.com/photo-1530610476181-d83430b64dcd?auto=format&fit=crop&w=600",
+        "price": 220
+      },
+      {
+        "name": "Sourdough Loaf",
+        "img": "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?auto=format&fit=crop&w=600",
+        "price": 350
+      },
+      {
+        "name": "Lavender Macarons",
+        "img": "https://images.unsplash.com/photo-1559622314-f48197771765?auto=format&fit=crop&w=600",
+        "price": 480
+      },
+      {
+        "name": "Miso Brownies",
+        "img": "https://images.unsplash.com/photo-1606313564059-44516226ec2f?auto=format&fit=crop&w=600",
+        "price": 180
+      },
+      {
+        "name": "Chai Spiced Cheesecake",
+        "img": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=600",
+        "price": 320
+      },
+      {
+        "name": "Rosemary Focaccia",
+        "img": "https://images.unsplash.com/photo-1571217694042-430c528f99e3?auto=format&fit=crop&w=600",
+        "price": 240
+      },
+      {
+        "name": "Beetroot Hummus Tart",
+        "img": "https://images.unsplash.com/photo-1524351159078-8bee5590930a?auto=format&fit=crop&w=600",
+        "price": 290
+      },
+      {
+        "name": "Brioche Buns",
+        "img": "https://images.unsplash.com/photo-1606101273044-750ca3734185?auto=format&fit=crop&w=600",
+        "price": 150
+      },
+      {
+        "name": "Earl Grey Cupcakes",
+        "img": "https://images.unsplash.com/photo-1519869325930-281384150729?auto=format&fit=crop&w=600",
+        "price": 140
+      },
+      {
+        "name": "Artisanal Baguette",
+        "img": "https://images.unsplash.com/photo-1589367920969-ab8e050bdd04?auto=format&fit=crop&w=600",
+        "price": 180
+      },
+      {
+        "name": "Pain au Chocolat",
+        "img": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=600",
+        "price": 210
+      },
+      {
+        "name": "Lemon Curd Tart",
+        "img": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?auto=format&fit=crop&w=600",
+        "price": 260
+      },
+      {
+        "name": "Rye Bread",
+        "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600",
+        "price": 310
+      },
+      {
+        "name": "Multi-grain Seed Loaf",
+        "img": "https://images.unsplash.com/photo-1563865436874-9aef32095fed?auto=format&fit=crop&w=600",
+        "price": 330
+      },
+      {
+        "name": "Turmeric Latte Cake",
+        "img": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?auto=format&fit=crop&w=600",
+        "price": 280
+      },
+      {
+        "name": "Salted Caramel Tart",
+        "img": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?auto=format&fit=crop&w=600",
+        "price": 300
+      },
+      {
+        "name": "Ciabatta",
+        "img": "https://images.unsplash.com/photo-1598143158354-282061848774?auto=format&fit=crop&w=600",
+        "price": 190
+      },
+      {
+        "name": "Pesto Breadsticks",
+        "img": "https://images.unsplash.com/photo-1536489885071-87983c3e2859?auto=format&fit=crop&w=600",
+        "price": 120
+      },
+      {
+        "name": "Rose Water Muffins",
+        "img": "https://images.unsplash.com/photo-1558303420-f814d8a590f5?auto=format&fit=crop&w=600",
+        "price": 130
+      },
+      {
+        "name": "Charcoal Sourdough",
+        "img": "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?auto=format&fit=crop&w=600",
+        "price": 380
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tags": ["North Indian", "Tandoori", "Butter Chicken", "Grilling", "Spicy"],
+    "dishes": [
+      {
+        "name": "Butter Chicken",
+        "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=600",
+        "price": 450
+      },
+      {
+        "name": "Tandoori Chicken",
+        "img": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=600",
+        "price": 380
+      },
+      {
+        "name": "Dal Makhani",
+        "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600",
+        "price": 320
+      },
+      {
+        "name": "Paneer Tikka",
+        "img": "https://images.unsplash.com/photo-1567184109411-b28f2703b142?auto=format&fit=crop&w=600",
+        "price": 340
+      },
+      {
+        "name": "Garlic Naan",
+        "img": "https://images.unsplash.com/photo-1601303584126-269c8247030e?auto=format&fit=crop&w=600",
+        "price": 60
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "img": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600",
+        "price": 440
+      },
+      {
+        "name": "Malai Kofta",
+        "img": "https://images.unsplash.com/photo-1606471191009-63994c53433b?auto=format&fit=crop&w=600",
+        "price": 360
+      },
+      {
+        "name": "Mutton Seekh Kebab",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=600",
+        "price": 480
+      },
+      {
+        "name": "Rogan Josh",
+        "img": "https://images.unsplash.com/photo-1542367592-8849eb950fd8?auto=format&fit=crop&w=600",
+        "price": 550
+      },
+      {
+        "name": "Tandoori Fish Tikka",
+        "img": "https://images.unsplash.com/photo-1534939561126-755ecf1588b0?auto=format&fit=crop&w=600",
+        "price": 520
+      },
+      {
+        "name": "Kadai Chicken",
+        "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=600",
+        "price": 420
+      },
+      {
+        "name": "Palak Paneer",
+        "img": "https://images.unsplash.com/photo-1567184109411-b28f2703b142?auto=format&fit=crop&w=600",
+        "price": 340
+      },
+      {
+        "name": "Amritsari Kulcha",
+        "img": "https://images.unsplash.com/photo-1534422298391-e4f8c170db76?auto=format&fit=crop&w=600",
+        "price": 90
+      },
+      {
+        "name": "Mutton Rara",
+        "img": "https://images.unsplash.com/photo-1542367592-8849eb950fd8?auto=format&fit=crop&w=600",
+        "price": 580
+      },
+      {
+        "name": "Baingan Bharta",
+        "img": "https://images.unsplash.com/photo-1626777553733-407edc076295?auto=format&fit=crop&w=600",
+        "price": 280
+      },
+      {
+        "name": "Afghani Chicken",
+        "img": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=600",
+        "price": 460
+      },
+      {
+        "name": "Jeera Rice",
+        "img": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&w=600",
+        "price": 180
+      },
+      {
+        "name": "Lacha Paratha",
+        "img": "https://images.unsplash.com/photo-1534422298391-e4f8c170db76?auto=format&fit=crop&w=600",
+        "price": 50
+      },
+      {
+        "name": "Bhuna Gosht",
+        "img": "https://images.unsplash.com/photo-1542367592-8849eb950fd8?auto=format&fit=crop&w=600",
+        "price": 520
+      },
+      {
+        "name": "Shahi Paneer",
+        "img": "https://images.unsplash.com/photo-1567184109411-b28f2703b142?auto=format&fit=crop&w=600",
+        "price": 360
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "tags": ["South Indian", "Seafood", "Dosa Specialist", "Coastal", "Authentic"],
+    "dishes": [
+      {
+        "name": "Masala Dosa",
+        "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600",
+        "price": 180
+      },
+      {
+        "name": "Fish Moilee",
+        "img": "https://images.unsplash.com/photo-1534939561126-755ecf1588b0?auto=format&fit=crop&w=600",
+        "price": 480
+      },
+      {
+        "name": "Prawn Ghee Roast",
+        "img": "https://images.unsplash.com/photo-1567137449554-b1684cf1393c?auto=format&fit=crop&w=600",
+        "price": 550
+      },
+      {
+        "name": "Appam with Vegetable Stew",
+        "img": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?auto=format&fit=crop&w=600",
+        "price": 320
+      },
+      {
+        "name": "Medu Vada",
+        "img": "https://images.unsplash.com/photo-1626132646529-5aa2d161d17a?auto=format&fit=crop&w=600",
+        "price": 120
+      },
+      {
+        "name": "Rava Dosa",
+        "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600",
+        "price": 160
+      },
+      {
+        "name": "Chettinad Chicken",
+        "img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=600",
+        "price": 420
+      },
+      {
+        "name": "Avial",
+        "img": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600",
+        "price": 280
+      },
+      {
+        "name": "Lemon Rice",
+        "img": "https://images.unsplash.com/photo-1516714435131-44d6b64dc6a2?auto=format&fit=crop&w=600",
+        "price": 180
+      },
+      {
+        "name": "Coconut Chutney",
+        "img": "https://images.unsplash.com/photo-1588644525287-f39a75855b4a?auto=format&fit=crop&w=600",
+        "price": 40
+      },
+      {
+        "name": "Malabar Paratha",
+        "img": "https://images.unsplash.com/photo-1534422298391-e4f8c170db76?auto=format&fit=crop&w=600",
+        "price": 60
+      },
+      {
+        "name": "Squid Pepper Fry",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=600",
+        "price": 380
+      },
+      {
+        "name": "Crab Roast",
+        "img": "https://images.unsplash.com/photo-1567137449554-b1684cf1393c?auto=format&fit=crop&w=600",
+        "price": 650
+      },
+      {
+        "name": "Upma",
+        "img": "https://images.unsplash.com/photo-1626132646529-5aa2d161d17a?auto=format&fit=crop&w=600",
+        "price": 140
+      },
+      {
+        "name": "Mysore Masala Dosa",
+        "img": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600",
+        "price": 200
+      },
+      {
+        "name": "Idli Sambhar",
+        "img": "https://images.unsplash.com/photo-1626132646529-5aa2d161d17a?auto=format&fit=crop&w=600",
+        "price": 140
+      },
+      {
+        "name": "Thalassery Biryani",
+        "img": "https://images.unsplash.com/photo-1563379091339-03b21bc4a4f8?auto=format&fit=crop&w=600",
+        "price": 450
+      },
+      {
+        "name": "Filter Coffee Mousse",
+        "img": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=600",
+        "price": 220
+      },
+      {
+        "name": "Banana Fritters",
+        "img": "https://images.unsplash.com/photo-1590595978583-3967cf17d2ea?auto=format&fit=crop&w=600",
+        "price": 150
+      },
+      {
+        "name": "Chicken 65",
+        "img": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=600",
+        "price": 320
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "tags": ["Italian", "Pasta", "Continental", "Fine Dining", "Risotto"],
+    "dishes": [
+      {
+        "name": "Margherita Pizza",
+        "img": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?auto=format&fit=crop&w=600",
+        "price": 450
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "img": "https://images.unsplash.com/photo-1612874742237-6526221588e3?auto=format&fit=crop&w=600",
+        "price": 520
+      },
+      {
+        "name": "Mushroom Risotto",
+        "img": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=600",
+        "price": 580
+      },
+      {
+        "name": "Lasagna Bolognese",
+        "img": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600",
+        "price": 620
+      },
+      {
+        "name": "Fettuccine Alfredo",
+        "img": "https://images.unsplash.com/photo-1645112481338-30145012743b?auto=format&fit=crop&w=600",
+        "price": 540
+      },
+      {
+        "name": "Bruschetta",
+        "img": "https://images.unsplash.com/photo-1506280754576-f6fa8a873550?auto=format&fit=crop&w=600",
+        "price": 280
+      },
+      {
+        "name": "Tiramisu",
+        "img": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=600",
+        "price": 380
+      },
+      {
+        "name": "Penne Arrabbiata",
+        "img": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=600",
+        "price": 480
+      },
+      {
+        "name": "Chicken Parmigiana",
+        "img": "https://images.unsplash.com/photo-1632778149975-435f479ad818?auto=format&fit=crop&w=600",
+        "price": 560
+      },
+      {
+        "name": "Potato Gnocchi",
+        "img": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600",
+        "price": 490
+      },
+      {
+        "name": "Caprese Salad",
+        "img": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?auto=format&fit=crop&w=600",
+        "price": 350
+      },
+      {
+        "name": "Minestrone Soup",
+        "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600",
+        "price": 260
+      },
+      {
+        "name": "Spinach Ravioli",
+        "img": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=600",
+        "price": 520
+      },
+      {
+        "name": "Pesto Pasta",
+        "img": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?auto=format&fit=crop&w=600",
+        "price": 480
+      },
+      {
+        "name": "Calzone",
+        "img": "https://images.unsplash.com/photo-1544333303-5775af6bb60e?auto=format&fit=crop&w=600",
+        "price": 550
+      },
+      {
+        "name": "Osso Buco",
+        "img": "https://images.unsplash.com/photo-1544124499-58912cbddaad?auto=format&fit=crop&w=600",
+        "price": 850
+      },
+      {
+        "name": "Creamy Polenta",
+        "img": "https://images.unsplash.com/photo-1615557960916-5f4791effe9d?auto=format&fit=crop&w=600",
+        "price": 320
+      },
+      {
+        "name": "Herb Focaccia",
+        "img": "https://images.unsplash.com/photo-1571217694042-430c528f99e3?auto=format&fit=crop&w=600",
+        "price": 180
+      },
+      {
+        "name": "Panna Cotta",
+        "img": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=600",
+        "price": 320
+      },
+      {
+        "name": "Seafood Linguine",
+        "img": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=600",
+        "price": 750
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "tags": ["American BBQ", "Smoked Meats", "Steaks", "Grilling", "Brisket"],
+    "dishes": [
+      {
+        "name": "Smoked Beef Brisket",
+        "img": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=600",
+        "price": 950
+      },
+      {
+        "name": "Pulled Pork Sandwich",
+        "img": "https://images.unsplash.com/photo-1521390188846-e2a39973e847?auto=format&fit=crop&w=600",
+        "price": 650
+      },
+      {
+        "name": "BBQ Pork Ribs",
+        "img": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600",
+        "price": 850
+      },
+      {
+        "name": "Grilled Ribeye Steak",
+        "img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=600",
+        "price": 1200
+      },
+      {
+        "name": "Smoked Turkey Breast",
+        "img": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?auto=format&fit=crop&w=600",
+        "price": 750
+      },
+      {
+        "name": "BBQ Chicken Wings",
+        "img": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?auto=format&fit=crop&w=600",
+        "price": 450
+      },
+      {
+        "name": "Burnt Ends",
+        "img": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?auto=format&fit=crop&w=600",
+        "price": 550
+      },
+      {
+        "name": "Cornbread",
+        "img": "https://images.unsplash.com/photo-1579372781878-66847425ec20?auto=format&fit=crop&w=600",
+        "price": 180
+      },
+      {
+        "name": "Coleslaw",
+        "img": "https://images.unsplash.com/photo-1550426348-ee5c27170b1a?auto=format&fit=crop&w=600",
+        "price": 140
+      },
+      {
+        "name": "Mac and Cheese",
+        "img": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=600",
+        "price": 280
+      },
+      {
+        "name": "Smoked Sausage",
+        "img": "https://images.unsplash.com/photo-1532597311687-5c2dc87fff52?auto=format&fit=crop&w=600",
+        "price": 350
+      },
+      {
+        "name": "Grilled Corn",
+        "img": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=600",
+        "price": 120
+      },
+      {
+        "name": "Baked Beans",
+        "img": "https://images.unsplash.com/photo-1551816230-ef5deaed4a28?auto=format&fit=crop&w=600",
+        "price": 160
+      },
+      {
+        "name": "Potato Salad",
+        "img": "https://images.unsplash.com/photo-1596450514735-244027729ed6?auto=format&fit=crop&w=600",
+        "price": 150
+      },
+      {
+        "name": "Texas Style Chili",
+        "img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=600",
+        "price": 380
+      },
+      {
+        "name": "Beef Short Ribs",
+        "img": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600",
+        "price": 1100
+      }
+    ]
+  }
+]
